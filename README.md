@@ -1,6 +1,8 @@
 # Simon The Game (Vue.js)
 
-<img src="screenshots/screen_1.png" width="600">
+<p align="center">
+  <img src="screenshots/screen_1.png" width="600"/>
+</p>
 
 ## Project setup
 ```
