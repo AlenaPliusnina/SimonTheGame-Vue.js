@@ -14,5 +14,6 @@ module.exports = {
                 additionalData: '@import "./src/assets/styles"'
             }
         }
-    }
+    },
+    publicPath: '/SimonTheGame-Vue.js/'
 }
