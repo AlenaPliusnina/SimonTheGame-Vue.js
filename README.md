@@ -1,4 +1,6 @@
-# simon-the-game
+# Simon The Game (Vue.js)
+
+<img src="screenshots/screen_1.png" width="600">
 
 ## Project setup
 ```
